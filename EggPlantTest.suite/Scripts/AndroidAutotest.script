@@ -1,0 +1,14 @@
+﻿PressHomeButton
+Click {Image:"GoogleIcon", WaitFor:4}
+WaitFor 8.0, "Google"
+Click text:"Search", WaitFor:5
+WaitFor 8.0, "Keyboard"
+TypeText "Weather in Warsaw"
+Click {Image:"SearchIcon", WaitFor:4}
+
+
+
+
+
+
+
