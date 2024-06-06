@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2024-06-04 13:37:18 +0000";
+    CaptureHost = "Mobile Device";
+    CaptureScreenSize = (
+        1080,
+        2400);
+    HasAlpha = 1;
+    HotSpotX = 68;
+    HotSpotY = 63;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 76;
+    OriginalLocationY = 2145;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "GoogleIcon";
+    tags = ();
+}

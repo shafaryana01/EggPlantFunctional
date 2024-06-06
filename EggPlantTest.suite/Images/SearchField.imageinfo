@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2024-06-05 13:10:38 +0000";
+    CaptureHost = "Mobile Device";
+    CaptureScreenSize = (
+        1080,
+        2400);
+    HasAlpha = 0;
+    HotSpotX = 479;
+    HotSpotY = 68;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 74;
+    OriginalLocationY = 497;
+    Precise = 1;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "SearchField";
+    tags = ();
+}
